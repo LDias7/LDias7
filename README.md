@@ -44,10 +44,3 @@
   </div>
 
   <br />
-
- <h3> 📊 Estatísticas </h3>
-
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=LDias7&show_icons=true&theme=dark&include_all_commits=true&count_private=true" height="180em" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LDias7&layout=compact&langs_count=7&theme=dark" height="180em" alt="Top Languages" />
-  </div>
