@@ -1,8 +1,8 @@
 <div align="center">
   
-  <img src="https://github.com/LDias7.png" width="200px" style="border-radius: 50%; border: 3px solid #0077B5;" />
+  
 
-  <h1> Olá, eu sou o Lucas Medeiros 👋 </h1>
+  <h1> 👨🏻‍💻 Lucas Medeiros</h1>
 
   <p>
     <strong>Cofundador da S&D Systems | Especialista em TI & Cibersegurança | Dashboards & Marketing</strong>
